@@ -1,0 +1,10 @@
+{
+  "packageformat": 1,
+  "title": "GA Aircraft Package for Stream Deck PLUS",
+  "versionpackage": "1.0",
+  "aircraft": "MSFS 2024 Aircraft",
+  "author": "dekla24",
+  "url": "",  
+  "notes": "Uses the Hexaza Icon pack from the elgato store", 
+  "versionplugin": "0.8.6"
+}
