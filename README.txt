@@ -21,3 +21,9 @@ Fixed DME showing 0 instead of 1
 V1.0
 Initial Release
 See description on https://flightsim.to/file/87455/generic-ga-airplane-profile-for-pilotsdeck-and-streamdeck-plus
+
+
+
+LICENSE
+=========
+License: CC - BY https://creativecommons.org/licenses/by/4.0/
